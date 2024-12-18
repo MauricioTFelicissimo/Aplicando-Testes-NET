@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "AplicandoTestes.Core/1.0.0": {
+        "runtime": {
+          "AplicandoTestes.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AplicandoTestes.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

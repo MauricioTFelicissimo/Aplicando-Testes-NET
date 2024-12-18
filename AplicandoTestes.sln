@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicandoTestes.Core", "AplicandoTestes.Core\AplicandoTestes.Core.csproj", "{0D52FAF9-C746-4DD4-905B-A60CB853D480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicandoTestes.UnitTests", "AplicandoTestes.UnitTests\AplicandoTestes.UnitTests.csproj", "{A8B55280-8BE3-4E2F-B6A3-8CB9A7966E0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplicandoTestes.IntegrationTests", "AplicandoTestes.IntegrationTests\AplicandoTestes.IntegrationTests.csproj", "{3E8875C3-5C36-40FE-A2FB-946765CCB444}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D52FAF9-C746-4DD4-905B-A60CB853D480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D52FAF9-C746-4DD4-905B-A60CB853D480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D52FAF9-C746-4DD4-905B-A60CB853D480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D52FAF9-C746-4DD4-905B-A60CB853D480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8B55280-8BE3-4E2F-B6A3-8CB9A7966E0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8B55280-8BE3-4E2F-B6A3-8CB9A7966E0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8B55280-8BE3-4E2F-B6A3-8CB9A7966E0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8B55280-8BE3-4E2F-B6A3-8CB9A7966E0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E8875C3-5C36-40FE-A2FB-946765CCB444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E8875C3-5C36-40FE-A2FB-946765CCB444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E8875C3-5C36-40FE-A2FB-946765CCB444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E8875C3-5C36-40FE-A2FB-946765CCB444}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

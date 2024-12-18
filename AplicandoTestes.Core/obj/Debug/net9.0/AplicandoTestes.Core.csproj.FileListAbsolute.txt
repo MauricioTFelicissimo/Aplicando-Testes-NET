@@ -1,0 +1,12 @@
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\bin\Debug\net9.0\AplicandoTestes.Core.deps.json
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\bin\Debug\net9.0\AplicandoTestes.Core.dll
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\bin\Debug\net9.0\AplicandoTestes.Core.pdb
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.AssemblyInfoInputs.cache
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.AssemblyInfo.cs
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.csproj.CoreCompileInputs.cache
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.sourcelink.json
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.dll
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\refint\AplicandoTestes.Core.dll
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\AplicandoTestes.Core.pdb
+C:\Users\wasse\OneDrive\Documentos\GitHub\Aplicando-Testes-NET\AplicandoTestes.Core\obj\Debug\net9.0\ref\AplicandoTestes.Core.dll
